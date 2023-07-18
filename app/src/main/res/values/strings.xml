@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Simple BMI Calculator</string>
+    <string name="title">BMI\nCalculator</string>
+    <string name="weight_in_kg">Weight (kg)</string>
+    <string name="height_m">Height (m)</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calc_bmi">Calculate BMI</string>
+    <string name="bmi">BMI</string>
+    <string name="bmi_information"><b>BMI</b> Information</string>
+
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+
+</resources>
